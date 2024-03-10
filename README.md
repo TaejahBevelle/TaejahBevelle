@@ -1,7 +1,8 @@
 ### Hi, Im Taejah  👋
 
-QA Engineer sharing my journey and learnings in tech<br/>
+QA Engineer based in NY sharing my journey and learnings in tech<br/>
 Studied Quality Assurance Engineering at TripleTen<br/>
+When im not finding Bugs in software, Im squashing Bugs in the garden<br/>
 
 
 
