@@ -2,6 +2,7 @@
 
 👩🏾‍💻 QA Engineer based in NY sharing my journey and learnings in tech<br/>
 👩🏽‍🏫Studied Quality Assurance Engineering at TripleTen<br/>
+Freelance QA Tester with UTEST<br/>
 When im not finding Bugs 🪲 in software, Im squashing Bugs in the garden 👩🏾‍🌾 <br/>
 
 
